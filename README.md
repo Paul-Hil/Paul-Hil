@@ -43,7 +43,7 @@ Projet réalisé lors de l'apothéose, [monPotager](https://mon-potagerv2.surge.
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Hil" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Hil&layout=compact " />
 </a>
 
 -----------------
