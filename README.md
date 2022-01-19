@@ -35,12 +35,13 @@ Projet réalisé lors de l'apothéose, [monPotager](https://mon-potagerv2.surge.
     </tbody>
 </table>
 
------------------
 ## [GitHub stats]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paul-Hil&show_icons=true&include_all_commits=true&hide=contribs,prs,stars&count_private=true" />
 </a>
+
+----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Hil&layout=compact " />
