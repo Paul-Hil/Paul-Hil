@@ -29,7 +29,7 @@ Projet réalisé lors de l'apothéose, [monPotager](https://mon-potagerv2.surge.
            <img align="center" width="60px" src="https://radiorfa.com/wp-content/uploads/2014/01/wordpress-logo11.png" />          
         </td>
          <td>
-           <img align="center" width="60px" src="https://executive-education.epitech.eu/wp-content/uploads/2021/03/symfony.png" />   
+           <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />   
         </td>
       </tr>
     </tbody>
