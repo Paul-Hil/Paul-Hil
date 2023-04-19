@@ -37,6 +37,6 @@ Projet réalisé lors de l'apothéose, [monPotager](https://mon-potagerv2.surge.
 
 ----
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-hil)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-hil)](https://github.com/anuraghazra/github-readme-stats) --!>
 
 -----------------
